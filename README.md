@@ -9,7 +9,6 @@
 
 ## useful link:
 
-1. project youtube link: https://www.youtube.com/watch?v=lBfshkPlMW8
-2. outsourced collected cdn link: <script src="https://cdn.jsdelivr.net/gh/cferdinandi/smooth-scroll/dist/smooth-scroll.polyfills.min.js"></script>
+1. outsourced collected cdn link: <script src="https://cdn.jsdelivr.net/gh/cferdinandi/smooth-scroll/dist/smooth-scroll.polyfills.min.js"></script>
 
 from this repository: https://github.com/cferdinandi/smooth-scroll
